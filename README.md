@@ -16,8 +16,9 @@
   <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Msql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Power-Automate" height="40" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg" />
-  <img align="center" alt="n8n" height="40" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" />
+  <img align="center" alt="Power Automate" height="40" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerautomate.svg?color=0066FF" />
+  <img align="center" alt="n8n" height="40" width="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg?color=EA4B71" />
+
   
 </div>
   
